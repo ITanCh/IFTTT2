@@ -1,6 +1,6 @@
 /*
  * send a mail to a given mail
- * 
+ * use your e-mail
  */
 package ifttt2;
 
